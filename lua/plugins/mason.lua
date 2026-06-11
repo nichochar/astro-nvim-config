@@ -8,6 +8,8 @@ return {
         "stylua",
         "selene",
         "prettier",
+        "terraform-ls",
+        "tflint",
       },
     },
   },
